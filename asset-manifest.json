@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "git@github.com:amine4000/Commy.git/static/css/main.5091319f.chunk.css",
+    "main.js": "git@github.com:amine4000/Commy.git/static/js/main.701052d9.chunk.js",
+    "main.js.map": "git@github.com:amine4000/Commy.git/static/js/main.701052d9.chunk.js.map",
+    "runtime~main.js": "git@github.com:amine4000/Commy.git/static/js/runtime~main.b6558cf8.js",
+    "runtime~main.js.map": "git@github.com:amine4000/Commy.git/static/js/runtime~main.b6558cf8.js.map",
+    "static/js/2.af4ae112.chunk.js": "git@github.com:amine4000/Commy.git/static/js/2.af4ae112.chunk.js",
+    "static/js/2.af4ae112.chunk.js.map": "git@github.com:amine4000/Commy.git/static/js/2.af4ae112.chunk.js.map",
+    "index.html": "git@github.com:amine4000/Commy.git/index.html",
+    "precache-manifest.1126e63379346ce33f451e07a5d25103.js": "git@github.com:amine4000/Commy.git/precache-manifest.1126e63379346ce33f451e07a5d25103.js",
+    "service-worker.js": "git@github.com:amine4000/Commy.git/service-worker.js",
+    "static/css/main.5091319f.chunk.css.map": "git@github.com:amine4000/Commy.git/static/css/main.5091319f.chunk.css.map",
+    "static/media/logo.png": "git@github.com:amine4000/Commy.git/static/media/logo.f803d26b.png",
+    "static/media/shopping-bag.30f07071.svg": "git@github.com:amine4000/Commy.git/static/media/shopping-bag.30f07071.svg"
+  }
+}
